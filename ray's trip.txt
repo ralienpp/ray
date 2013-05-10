@@ -1,4 +1,4 @@
-Hi, my name is Ray! 
+﻿Hi, my name is Ray! 
 
 If you were about to say `Hello Raymond`, hold it right there! I know, you want to be polite and express respect, but my full name is `Ray of light`, not `Raymond`. It is an unusual name, isn't it?
 
@@ -109,7 +109,7 @@ But... let me go back to Mercury. It is a little gray rock, with many holes in i
 
 .. image:: crater
 
-Did you ever throw a pebble into a puddle? Or a rock in a pond? Go ahead and try it next time you're outside, if you haven't done so already. Notice that when the rock hits the water, a round hole is formed around it, along with some ripples. In a few moments, the water comes back and the hole is gone. After a while, the ripples fade away too.
+Have you ever thrown a pebble into a puddle? Or a rock in a pond? Go ahead and try it next time you're outside, if you haven't done so already. Notice that when the rock hits the water, a round hole is formed around it, along with some ripples. In a few moments, the water comes back and the hole is gone. After a while, the ripples fade away too.
 
 A crater forms in a similar way, but unlike in the case of water - where in a few seconds everything comes back to normal, when a rock hits the ground - the hole is going to remain there for a very long time, maybe even forever!
 
@@ -124,7 +124,7 @@ About 6 minutes after my departure from the Sun, another ball became visible in 
 
 This is the planet Venus. It is covered by clouds and as you approach it, you can see that it appears to be of a greenish tint, almost gray. There were so many clouds that I could not see the surface at all. Does it have craters like Mercury? I cannot tell, the clouds cover absolutely everything.
 
-I was very surprised to see that Venus is extremely hot. How hot? Let's do it like we did it every time so far - think of something very hot and remember how you felt when you touched that object.
+I was very surprised to see that Venus is extremely hot. How hot? Well, we've done this before, we are not going to guess, we are going to... **Think!** Think of something very hot and remember how you felt when you touched that object.
 
 If you ever saw how a candle burns, remember that the wax it was made of melted. Well, wax usually melts at a temperature of 60 degrees Celcius. Something hotter than that - water boils at 100 degrees Celcius. Give it a try once, have a look at a boiling pot of water while someone cooks dinner - see the bubbles and the vapours, that's what happens when water gets hot.
 
@@ -151,7 +151,7 @@ Like I said, don't worry about me - rays of light deal with such extreme conditi
 
 Before I tell you about my next stop, remember::
 
-  You can always ask questions if something is not clear, I don't mind. Actually, I love questions! So feel free to ask anytime!
+	You can always ask questions if something is not clear, I don't mind. Actually, I love questions! So feel free to ask anytime!
 	
 
 If you have some unanswered questions about the things I already told you, I will answer them. Think about it for a while before we move on.
