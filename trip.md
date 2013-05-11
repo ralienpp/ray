@@ -167,7 +167,7 @@ Earth happens to be the place where you are now. Yes, right there, under your sh
 
 I don't think that I have to tell you a lot about your own home, after all - you live there, so you know it better than I do.
 
-However, there are a few things I want you to know. A while ago we discussed days and nights, I told you that there is no night or day on the sun, and I will explain why you have them on Earth.
+However, there are a few things I want to share. A while ago we discussed days and nights, I told you that there is no night or day on the sun, and I will explain why you have them on Earth.
 
 
 Day and night
@@ -203,10 +203,22 @@ Think about it, I'll wait right here.
 Yes, it is round; and yes, it is rotating. You were right!
 
 
+Mars appears to be red, because it is mostly covered with `iron oxide` (which is just a fancy name for `rust`). Next time you go out, pay attention to the objects around you that are made of iron, find old pieces that are covered with rust - what colour are they?
+
+There is something else you could do - next time you eat an apple, take a bite and leave the apple for a few minutes. The inner part should change its colour, it happens because the tiny pieces of iron contained in the apple are influenced by something in the air, called `oxygen`. The apple gets `oxidized`, which is just a fancy way of saying that `it was influenced by oxygen`. I know, these fancy names can be a little bit complicated, but don't worry - they're just names, there is nothing scarry about them.
+
+
+Another interesting thing I saw on Mars was a place called `Olympus Mons`, it is the tallest mountain I have ever seen. The tallest mountain of your home-world is called `Everest`, and Olympus Mons is almost three times taller, can you imagine that?! I was really impressed!
+
+Mars also has a lot of canyons - they look like very deep scratches on the surface. The canyons on Mars are wider and deeper than those on Earth.
+
+
+I have to leave now, I see something enormous in the distance, I want to take a better look.
 
 
 
-
+Jupiter
+=======
 
 
 
