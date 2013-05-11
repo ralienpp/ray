@@ -107,14 +107,18 @@ Oh, wait... I just told you to multiply some numbers, but you probably don't kno
 
 But... let me go back to Mercury. It is a little gray rock, with many holes in it. These holes are called `craters`, they are formed when something falls on the surface of the planet.
 
-.. image:: crater
+![A photograph of a crater 308 on the Earth's Moon](http://www.nasa.gov/images/content/2368main_MM_Image_Feature_26_rs4.jpg "A crater on the Moon, surrounded by many smaller craters")
 
 Have you ever thrown a pebble into a puddle? Or a rock in a pond? Go ahead and try it next time you're outside, if you haven't done so already. Notice that when the rock hits the water, a round hole is formed around it, along with some ripples. In a few moments, the water comes back and the hole is gone. After a while, the ripples fade away too.
 
 A crater forms in a similar way, but unlike in the case of water - where in a few seconds everything comes back to normal, when a rock hits the ground - the hole is going to remain there for a very long time, maybe even forever!
 
 
-Mercury is riddled with craters. Apparently, it was hit many times in the past, and not much has happened since then.
+![Caloris Basin, the largest crater on Mercury](https://raw.github.com/ralienpp/ray/master/images/caloris-basin.jpg "Caloris Basin")
+
+Mercury is riddled with craters. Apparently, it was hit many times in the past, and not much has happened since then. If you look carefully, you will find a place called `Caloris Basin`, it is the largest crater I have ever seen. It is very large... How large? So large, that you can hardly see it is a crater, unless you look very carefully and notice its rounded shape and rim. It is about as large as Saudi Arabia, a country on Earth; try to find it on a map - so you can see what I am talking about.
+
+![Caloris Basin, the largest crater on Mercury highlighted with yellow](https://raw.github.com/ralienpp/ray/master/images/caloris-basin-highlighted.jpg "Caloris Basin, with a colour contour, to make it more prominent")
 
 
 Venus
@@ -181,7 +185,7 @@ If you paid attention, you saw that they have differences, for example - Venus i
 You may have noticed that all of them are round and that all of them are spinning. Well, the spinning is what makes days and nights possible. The side that is facing the sun is lit - so there is day. The opposite side is in the shadow, it is dark - and we call it `the night`. The drawing below will make it clear.
 
 
-.. image:: http://asdasd.comp/day-and-night.png
+![A schematic representation of day and night](https://raw.github.com/ralienpp/ray/master/images/day-and-night.png "The planet is illuminated by the Sun on one side - that is a day; the opposite side is in the shadow - that is the night. The line that separates them is the terminator")
 
 
 Notice that line separating the day from the night, it is called `the terminator`, it means `ending`, indicating the place where the day ends and the night begins. I really like that name, it reminds me of a good friend of mine.
@@ -224,7 +228,7 @@ Wow, you really need to take a look at this! I am approaching an incredibly huge
 
 The colours are just amazing! Here, have a look at the pictures I brought for you:
 
-.. image:: http://asdasd.comp/jupiter.jpg
+![The planet Jupiter](http://www.nasa.gov/images/content/53255main_MM_image_feature_97_jwhires.jpg "Jupiter")
 
 
 Ah, I really can't stop saying how super large Jupiter is, wow! For a comparison - if you take Earth, your home planet, and make a copy of it, you can fit over a thousand of those into Jupiter and still have some space left!
@@ -235,12 +239,18 @@ Try to imagine what it would look like when you observe the night sky and you se
 
 You must be surprised, right? No surface to walk on? Who would have thought? It is very strange, I agree. This also means that there are no craters on Jupiter, because there is no surface to hit. A falling rock would keep falling and falling, until it gets crushed by the weight of the clouds above it.
 
-Jupiter's colours are very beautiful, the clouds move very fast and they go in different directions, this makes it look like some kind of a cake with many layers that have a mind of their own. See this video that I found for you, I hope you'll like it.
-
-.. image:: http://asdasd.comp/day-and-night.png //Jupiter animated video
+Jupiter's colours are very beautiful, the clouds move very fast and they go in different directions, this makes it look like some kind of a cake with many layers that have a mind of their own. See this video that I found for you, I hope you'll like it. I apologize for the video being black and white, but I didn't have a better camera at the time.
 
 
-If you pay attention, you will see a very large red spot, it looks like a stain - it is a storm. It is so large that three Earths can fit into it. This is unthinkable, but *think about it anyway*. Try to remember a very windy day, perhaps a day in autumn? There was a storm and the trees were bent by the wind - you could always go home and enjoy the protection and comfort of your room. The giant storm on Jupiter, on the other hand, is so large, that you would probably get stuck in it forever. Of course, if you were a ray of light, like myself, you could get out of it before you reach the end of this sentence.
+![Jupiter's great red spot, as seen by Voyager](http://upload.wikimedia.org/wikipedia/commons/a/a3/790106-0203_Voyager_58M_to_31M_reduced.gif "Jupiter's great red spot")
+
+
+If you pay attention, you will see a very large spot, it looks like a stain - it is a storm. It has a reddish colour, here is a better picture:
+
+![Jupiter's great red spot, as seen by Voyager](https://raw.github.com/ralienpp/ray/master/images/jupiter-red-spot.png "Jupiter's great red spot")
+
+
+It is so large that three Earths can fit into it. This is unthinkable, but *think about it anyway*. Try to remember a very windy day, perhaps a day in autumn? There was a storm and the trees were bent by the wind - you could always go home and enjoy the protection and comfort of your room. The giant storm on Jupiter, on the other hand, is so large, that you would probably get stuck in it forever. Of course, if you were a ray of light, like myself, you could get out of it before you reach the end of this sentence.
 No, I don't think you can just wait until the storm is over. As far as I know, it has been there for hundreds of years and I don't know if it will ever stop. Talk to your friends, maybe they know something about it?
 
 
@@ -263,3 +273,4 @@ You may not believe me, because you can't see it. Yes, the air is invisible, it 
 
 
 
+https://raw.github.com/ralienpp/ray/master/images/placeholder.png
