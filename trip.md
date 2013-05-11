@@ -220,11 +220,28 @@ I have to leave now, I see something enormous in the distance, I want to take a 
 Jupiter
 =======
 
+Wow, you really need to take a look at this! I am approaching an incredibly huge ball, it is bigger than anything I have ever seen (except the Sun, of course), it is breathtakingly beautiful - this is Jupiter!
+
+The colours are just amazing! Here, have a look at the pictures I brought for you:
+
+.. image:: http://asdasd.comp/jupiter.jpg
 
 
+Ah, I really can't stop saying how super large Jupiter is, wow! For a comparison - if you take Earth, your home planet, and make a copy of it, you can fit over a thousand of those into Jupiter and still have some space left!
+
+As I get closer, I can see that Jupiter has a lot of smaller balls rotating around it - they are its moons, and I can count at least 60 of them! The Earth has only one moon, and you call it `the Moon` - you see it at night, it looks beautiful, doesn't it?
+
+Try to imagine what it would look like when you observe the night sky and you see more than one moon! Hmmm, I am sure that would be a great view. Unfortunately, I don't think we can go to Jupiter's surface and look at the sky from there - the problem is that Jupiter is made almost entirely from `gases` (yes, that's a fancy way to say `cloud`), so there is *no surface to walk on*! So the only way to picture that is to imagine it, at least for now... because I can't think of another way.
+
+You must be surprised, right? No surface to walk on? Who would have thought? It is very strange, I agree.
+
+Jupiter's colours are very beautiful, the clouds move very fast and they go in different directions, this makes it look like some kind of a cake with many layers that have a mind of their own. See this video that I found for you, I hope you'll like it.
+
+.. image:: http://asdasd.comp/day-and-night.png //Jupiter animated video
 
 
-
+If you pay attention, you will see a very large red spot, it looks like a stain - it is a storm. It is so large that three Earths can fit into it. This is unthinkable, but *think about it anyway*. Try to remember a very windy day, perhaps a day in autumn? There was a storm and the trees were bent by the wind - you could always go home and enjoy the protection and comfort of your room. The giant storm on Jupiter, on the other hand, is so large, that you would probably get stuck in it forever. Of course, if you were a ray of light, like myself, you could get out of it before you reach the end of this sentence.
+No, I don't think you can just wait until the storm is over. As far as I know, it has been there for hundreds of years and I don't know if it will ever stop. Talk to your friends, maybe they know something about it?
 
 
 
