@@ -233,7 +233,7 @@ As I get closer, I can see that Jupiter has a lot of smaller balls rotating arou
 
 Try to imagine what it would look like when you observe the night sky and you see more than one moon! Hmmm, I am sure that would be a great view. Unfortunately, I don't think we can go to Jupiter's surface and look at the sky from there - the problem is that Jupiter is made almost entirely from `gases` (yes, that's a fancy way to say `cloud`), so there is *no surface to walk on*! So the only way to picture that is to imagine it, at least for now... because I can't think of another way.
 
-You must be surprised, right? No surface to walk on? Who would have thought? It is very strange, I agree.
+You must be surprised, right? No surface to walk on? Who would have thought? It is very strange, I agree. This also means that there are no craters on Jupiter, because there is no surface to hit. A falling rock would keep falling and falling, until it gets crushed by the weight of the clouds above it.
 
 Jupiter's colours are very beautiful, the clouds move very fast and they go in different directions, this makes it look like some kind of a cake with many layers that have a mind of their own. See this video that I found for you, I hope you'll like it.
 
@@ -242,6 +242,17 @@ Jupiter's colours are very beautiful, the clouds move very fast and they go in d
 
 If you pay attention, you will see a very large red spot, it looks like a stain - it is a storm. It is so large that three Earths can fit into it. This is unthinkable, but *think about it anyway*. Try to remember a very windy day, perhaps a day in autumn? There was a storm and the trees were bent by the wind - you could always go home and enjoy the protection and comfort of your room. The giant storm on Jupiter, on the other hand, is so large, that you would probably get stuck in it forever. Of course, if you were a ray of light, like myself, you could get out of it before you reach the end of this sentence.
 No, I don't think you can just wait until the storm is over. As far as I know, it has been there for hundreds of years and I don't know if it will ever stop. Talk to your friends, maybe they know something about it?
+
+
+What do clouds weigh?
+---------------------
+
+I told you that a falling rock would be crushed by the weight of the clouds above it. Earth has clouds too, but you are not crushed by them. Why not?
+
+In fact, it is simply because you are used to carrying the weight of the air above you, it was always there - so you can't tell what it would be like without it. It is surprising, but whenever you walk outside, there are about one thousand kilograms of air pushing you towards the ground!
+
+You may not believe me, because you can't see it. Yes, the air is invisible, it is true; but if it weren't there - you would be unable to breathe. So the fact that you can breathe indicates that something is out there around you, even if you can't see it.
+
 
 
 
