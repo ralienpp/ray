@@ -118,7 +118,7 @@ A crater forms in a similar way, but unlike in the case of water - where in a fe
 
 Mercury is riddled with craters. Apparently, it was hit many times in the past, and not much has happened since then. If you look carefully, you will find a place called `Caloris Basin`, it is the largest crater I have ever seen. It is very large... How large? So large, that you can hardly see it is a crater, unless you look very carefully and notice its rounded shape and rim. It is about as large as Saudi Arabia, a country on Earth; try to find it on a map - so you can see what I am talking about.
 
-![Caloris Basin, the largest crater on Mercury highlighted with yellow](https://raw.github.com/ralienpp/ray/master/images/caloris-basin-highlighted.jpg "Caloris Basin, with a colour contour, to make it more prominent")
+![Caloris Basin, the largest crater on Mercury highlighted with yellow](https://raw.github.com/ralienpp/ray/master/images/caloris-basin-highlighted.png "Caloris Basin, with a colour contour, to make it more prominent")
 
 
 Venus
