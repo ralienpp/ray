@@ -265,6 +265,93 @@ You may not believe me, because you can't see it. Yes, the air is invisible, it 
 
 
 
+Europa
+======
+
+Before leaving Jupiter, I visited a snowball! That's what it looked like from the distance! Yes, I didn't expect that either!
+
+Europa is a small world that rotates around Jupiter, just like the Moon spins around the Earth. Objects that revolve around another object are called `satellites`, so the Moon is a satellite of Earth and Europa is a satellite of Jupiter.
+
+I have never seen such a world, it was absolutely white - unlike all the previous places I have been to. Europa seems to be completely frozen and covered with ice, no matter where you look, you see just ice, ice and ice. Sometimes, if you pay attention - you can see some ice too!
+
+
+
+By the way, I know that `Europa` sounds a lot like `Europe` - but no, I did not mispronounce it. In fact, I learned that Europe is a place on Earth, both these names were inspired by a name of an ancient Greek goddess. Unfortunately I cannot remember any details about this goddess, so I would greatly appreciate it if you looked it up for me, so you could fill me in next time we see each other.
+
+Sleighing or skiing on Europa must be a very fun activity, maybe one day I could try it. Beware though, the closer you get - the more becomes visible. Europa appears to have some scratches, those are cracks in the ice. Some of them can be very deep, they remind me of the canyons on Mars, though these are made from ice, rather than rock.
+
+![Cracks on Europa](http://upload.wikimedia.org/wikipedia/commons/4/45/Europa_g1_true.jpg "Europa, a closer look at the surface")
+
+
+
+Ray, one of my best friends, told me that there is an enormous ocean under the ice crust of Europa. I haven't seen it with my own eyes, so I can't tell you whether it is true or not, but we can talk about it when you tell me about Europa, the Greek goddess.
+
+
+Io
+==
+
+Io - that's a funny name, isn't it? It is another satellite of Jupiter, it is pretty small. It has a yellowish colour, sometimes it is dark brown. This one has a very peculiar feature that reminds me of Earth, your home planet.
+
+You see, as I got closer to Io, I noticed some jets going out of it. No, nooooo... Not airplane jets, no, of course not! I refer to streams of something that was ejected from the surface.
+
+I couldn't believe my eyes, but after squinting a little bit - I realized that Io has active volcanoes!  A volcano is like a mountain, but unlike a mountain - sometimes it spits things out, usually melted rock, which is so hot that it turns into a liquid and it flows downhill from the top of the volcano, just like water!
+
+![Io](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Io_highest_resolution_true_color.jpg/600px-Io_highest_resolution_true_color.jpg "Io, a satellite of Jupiter")
+
+There is one other observation that I have made - Io did not have as many craters as the Moon or Mercury. I think this happens because those volcanoes eject `lava` (that's another name for `melted rock`), which covers the hole in the ground. As the lava cools down, it becomes hard and that is how the surface is renewed.
+
+Maybe, if there was a way to somehow look under the top layers of Io's surface, we could see remnants of craters that were there in the past? We ought to give it a try one day, maybe we could organize an expedition? Let me know if you're interested, I'll talk to my friends and see what we can do about it.
+
+
+
+Why are all these worlds round?
+-------------------------------
+
+You may have noticed one detail - all the places I am talking about are round. What gives them this ball shape?
+
+I don't know for sure, but I was talking to Ray once (another Ray) and she told me that there is a force called `gravity`, which makes objects attract each other. As they get closer - they merge and form a bigger object, they keep doing it over and over, getting bigger and bigger. As the size grows, an object attracts smaller objects with a greater strength - so it seems that the bigger something is, the more it attracts.
+
+So, many millions of years ago, when Io was smaller, it didn't have a round shape. But as its gravity got stronger, it pulled everything towards the center, even the parts that were sticking up!
+
+This is why planets and satellites that are large enough have a round shape, at least that's how I understand it.
+
+
+Having fun with experiments
+---------------------------
+
+It is possible that you don't believe what I just told you about gravity. After all - you can't see it, so why would you believe it is there? Indeed, it is invisible, but there are ways to check whether it is there or not.
+
+Pick up any object that you can find nearby. I do mean it, don't just imagine it; really- go ahead and pick something up, anything will do, except your mom's favourite glass vase (in a few moments you'll see why). Lift it up and then let it go.
+
+Notice that it falls *down* - it is attracted by the Earth's gravity, which pulls the object towards the center of Earth. This confirms that there is something that attracts the object.
+
+If the object remained where you left it - it would mean that it was not attracted by anything; if it went in a different direction - you could tell that there is definitely something out there, but it is not pulling the object towards the center of the Earth.
+
+You should get used to invisible things, there are a lot of them out there, I'll tell you more when I have a chance to do so.
+
+
+
+Saturn
+======
+
+My next stop was Saturn, a huge planet that looks a lot like Jupiter. It has many storms on it, it does not have a surface to walk on, and as you already know - it is round.
+
+Saturn has something I haven't seen before - rings. At first they seemed bizare, but then I got used to seeing them around the planet. The closer I got - the better I saw the rings, which turned out to be smooth disks.
+
+![Saturn](http://upload.wikimedia.org/wikipedia/commons/0/09/Saturn-cassini-March-27-2004.jpg "Saturn and its rings")
+
+As I got even closer, they turned out to be not so smooth at all - in fact, they are made of millions of little chunks of rock and ice that are `orbiting` Saturn. Yes, that's a new word, when I say `orbiting`, it is just a fancy way of saying `rotate around something`. For example, the Moon orbits the Earth, which means that the Moon is rotating around the Earth. Simple, isn't it?
+
+It seems that Saturn is in a contest with Jupiter - who has the most satellites? They both have over 60 of them, so let's call it a tie for now.
+
+
+
+
+
+
+
+
+
 
 
 
