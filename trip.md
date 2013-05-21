@@ -327,7 +327,7 @@ Notice that it falls *down* - it is attracted by the Earth's gravity, which pull
 
 If the object remained where you left it - it would mean that it was not attracted by anything; if it went in a different direction - you could tell that there is definitely something out there, but it is not pulling the object towards the center of the Earth.
 
-You should get used to invisible things, there are a lot of them out there, I'll tell you more when I have a chance to do so.
+You should get used to invisible things, there are a lot of them out there. As long as you can find a way to ensure they really exist, you'll be fine. I'll tell you more about it when I have a chance to do so.
 
 
 
